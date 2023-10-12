@@ -1,0 +1,31 @@
+.atribuicao {
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    width: 300px;
+    height: 500px;
+    margin: 34%;
+    margin-top:  9%;
+    border: 20px solid #fff;
+    border-radius: 20px;
+    background-color: #fff;
+}
+
+.atribuicao img {
+    width: 300px;
+    height: 300px;
+    border-radius: 15px;  
+}
+
+.atribuicao h2{
+    font-weight: bold;
+    margin-top: 2rem;
+    font-size: 25px;
+    margin-bottom: 1rem;
+    background-color: #fff;
+}
+
+.atribuicao p {
+    background-color: #fff;
+    font-size: 15px;
+}

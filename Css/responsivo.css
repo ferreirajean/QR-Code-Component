@@ -1,0 +1,7 @@
+@media (max-width: 1440px) {
+    .atribuicao{
+        align-items: center;
+        margin-top: 50%;
+        display: flex;
+    }
+}
